@@ -1,7 +1,5 @@
 # Employee-Salary-Prediction-using-Machine-Learning
 
-# Employee Salary Prediction using Machine Learning
-
 ## 📌 Project Overview
 
 This project predicts the salary of newly hired employees based on their professional and educational attributes using Machine Learning techniques. The model helps estimate expected salaries by learning patterns from historical employee data.
@@ -43,8 +41,6 @@ Employee-Salary-Prediction/
 │
 ├── notebooks/
 │   └── Employee_Salary_Prediction.ipynb
-
-│
 ├── README.md
 └── requirements.txt
 ```

@@ -152,7 +152,3 @@ Contributions are welcome! Feel free to fork this repository, open issues, and s
 
 ---
 
-
-LinkedIn: *(Add your LinkedIn profile here)*
-
-Email: *(Add your email here if you'd like to be contacted.)*
